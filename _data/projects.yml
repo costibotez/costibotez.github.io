@@ -1,0 +1,5 @@
+- title: Sample Project
+  description: A cool project.
+  image: /assets/hero.svg
+  tech: [Jekyll, HTML, CSS]
+  link: https://example.com
